@@ -14,3 +14,7 @@ Steps to Load/Replace Custom Textures:
 3. Rename the EDITED CUSTOM TEXTURE FILE to the ONE YOU'RE WANTING TO REPLACE. 
 4. Place in a [custom] folder, with an fxmanifest
 5. Restart server. 
+
+If you want to make your OWN custom textures, you'll need: 
+https://www.nexusmods.com/reddeadredemption2/mods/1089?tab=images
+https://www.nexusmods.com/reddeadredemption2/mods/1750 (Entire video series which includes the link above to need -- full credit to the owner of this video and how to do this.) 
