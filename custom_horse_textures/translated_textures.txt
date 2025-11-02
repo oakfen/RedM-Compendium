@@ -1,0 +1,253 @@
+p_c_horse_01_h_merge_6 = dark_dapple (andalusian/hungarian)
+p_c_horse_hand_000_c0_861_ab
+p_c_horse_head_000_c0_861_ab
+
+p_c_horse_01_h_merge_7 = simple blaze??? (arabian, hungarian, tnw, tb)
+p_c_horse_hand_000_c0_871_ab
+p_c_horse_head_000_c0_871_ab
+
+p_c_horse_01_h_merge_8 = dark_dapple (gang_uncle)
+p_c_horse_hand_000_c0_862_ab
+p_c_horse_head_000_c0_862_ab
+
+p_c_horse_01_h_merge_9 = turk_silver (gang_hosea)
+p_c_horse_hand_000_c0_890_ab
+p_c_horse_head_000_c0_890_ab
+
+p_c_horse_01_h_merge_10 = asb_silverbuckskin (asb silverbuckskin, arabian, shire, gang_sean)
+p_c_horse_hand_000_c0_881_ab
+p_c_horse_head_000_c0_881_ab
+
+p_c_horse_01_h_merge_11 = turk_perlino (turk darkbay AND perlino, gang_dutch)
+p_c_horse_hand_000_c0_872_ab
+p_c_horse_head_000_c0_872_ab
+
+p_c_horse_01_h_merge_12 = mft_dapplepinto 
+p_c_horse_hand_000_c0_891_ab
+p_c_horse_head_000_c0_891_ab
+
+p_c_horse_01_h_merge_13 = gang_bill
+p_c_horse_hand_000_c0_882_ab
+p_c_horse_head_000_c0_882_ab
+
+p_c_horse_01_h_merge_14 = criollo_dun (criollo, andalusian, morgan, mustang, tnw )
+p_c_horse_hand_000_c0_873_ab
+p_c_horse_head_000_c0_873_ab
+
+p_c_horse_01_h_merge_15 = charles_endless_summer 
+p_c_horse_hand_000_c0_864_ab
+p_c_horse_head_000_c0_864_ab
+
+p_c_horse_01_h_merge_16 = tb_brindle (tb)
+p_c_horse_hand_000_c0_991_ab
+p_c_horse_head_000_c0_991_ab
+
+p_c_horse_01_h_merge_17 = splashed_white (american paint, eagleflies)
+p_c_horse_hand_000_c0_883_ab
+p_c_horse_head_000_c0_883_ab
+
+p_c_horse_01_h_merge_18 = uncle_endless_summer
+p_c_horse_hand_000_c0_865_ab
+p_c_horse_head_000_c0_865_ab
+
+p_c_horse_01_h_merge_19 = asb_palomino_dapple (asb, dutch warmblood, nokota, tb)
+p_c_horse_hand_000_c0_992_ab
+p_c_horse_head_000_c0_992_ab
+
+p_c_horse_01_h_merge_20 = gang_lenny (kentucky saddler, gang_lenny)
+p_c_horse_hand_000_c0_884_ab
+p_c_horse_head_000_c0_884_ab
+
+p_c_horse_01_h_merge_21 = tiger_striped_bay (mustang golden dun AND tiger striped bay)
+p_c_horse_hand_000_c0_875_ab
+p_c_horse_head_000_c0_875_ab
+
+p_c_horse_01_h_merge_22 = zebra
+p_c_horse_hand_000_c0_866_ab
+p_c_horse_head_000_c0_866_ab
+
+p_c_horse_01_h_merge_23 = dwb_sooty_buckskin (dwb)
+p_c_horse_hand_000_c0_894_ab
+p_c_horse_head_000_c0_894_ab
+
+p_c_horse_01_h_merge_24 = hungarian_piebald_tobiano
+p_c_horse_hand_000_c0_885_ab
+p_c_horse_head_000_c0_885_ab
+
+p_c_horse_01_h_merge_25 = dwb_sealbrown
+p_c_horse_hand_000_c0_876_ab
+p_c_horse_head_000_c0_876_ab
+
+p_c_horse_01_h_merge_26 = tb_reverseddapple
+p_c_horse_hand_000_c0_867_ab
+p_c_horse_head_000_c0_867_ab
+
+p_c_horse_01_h_merge_27 = paint_tobiano (american paint, gang_karen)
+p_c_horse_hand_000_c0_994_ab
+p_c_horse_head_000_c0_994_ab
+
+p_c_horse_01_h_merge_28 = paint_overo (american paint)
+p_c_horse_hand_000_c0_895_ab
+p_c_horse_head_000_c0_895_ab
+
+p_c_horse_01_h_merge_29 = brown_leopard (appy)
+p_c_horse_hand_000_c0_886_ab
+p_c_horse_head_000_c0_886_ab
+
+p_c_horse_01_h_merge_30 = tnw_flaxenroan (tnw x2, gang_kieran)
+p_c_horse_hand_000_c0_877_ab
+p_c_horse_head_000_c0_877_ab
+
+p_c_horse_01_h_merge_31 = ardennes_strawberry_roan (suffolk, ardennes)
+p_c_horse_hand_000_c0_995_ab
+p_c_horse_head_000_c0_995_ab
+
+p_c_horse_01_h_merge_32 = belgian_mealy (belgian x2, shire, suffolk)
+p_c_horse_hand_000_c0_896_ab
+p_c_horse_head_000_c0_896_ab
+
+p_c_horse_01_h_merge_33 = baldface (tnw, gang_micah)
+p_c_horse_hand_000_c0_887_ab
+p_c_horse_head_000_c0_887_ab
+
+p_c_horse_01_h_merge_34 = red_roan (tnw only)
+p_c_horse_hand_000_c0_878_ab
+p_c_horse_head_000_c0_878_ab
+
+p_c_horse_01_h_merge_35 = appy_blanket (appy)
+p_c_horse_hand_000_c0_996_ab
+p_c_horse_head_000_c0_996_ab
+
+p_c_horse_01_h_merge_36 = turk_gold (asb, arabian, buell, hungarian, kentucky, morgan, shire, turk)
+p_c_horse_hand_000_c0_897_ab
+p_c_horse_head_000_c0_897_ab
+
+p_c_horse_01_h_merge_37 = mustang_wildbay (mustang, tb, gang_john)
+p_c_horse_hand_000_c0_888_ab
+p_c_horse_head_000_c0_888_ab
+
+p_c_horse_01_h_merge_38 = mft_champagne (arabian, mft x2)
+p_c_horse_hand_000_c0_879_ab
+p_c_horse_head_000_c0_879_ab
+
+p_c_horse_01_h_merge_39 = kentucky_pinto (kentuckly saddler)
+p_c_horse_hand_000_c0_997_ab
+p_c_horse_head_000_c0_997_ab
+
+p_c_horse_01_h_merge_40 = morgan_liver_chestnut (morgan, gang_sadie)
+p_c_horse_hand_000_c0_988_ab
+p_c_horse_head_000_c0_988_ab
+
+p_c_horse_01_h_merge_41 = tnw_black_rabicano (tnw)
+p_c_horse_hand_000_c0_898_ab
+p_c_horse_head_000_c0_898_ab
+
+p_c_horse_01_h_merge_42 = paint_grey_overo (american pint, gang_javier)
+p_c_horse_hand_000_c0_889_ab
+p_c_horse_head_000_c0_889_ab
+
+p_c_horse_01_h_merge_43 = appy_leopard (appy x2)
+p_c_horse_hand_000_c0_998_ab
+p_c_horse_head_000_c0_998_ab
+
+p_c_horse_01_h_merge_44 = leopard_blanket (appy)
+p_c_horse_hand_000_c0_989_ab
+p_c_horse_head_000_c0_989_ab
+
+p_c_horse_01_h_merge_45 = asb_bucskin (asb x2, andalusian, ardennes x2, kentucky x2, morgan, nokota)
+p_c_horse_hand_000_c0_899_ab
+p_c_horse_head_000_c0_899_ab
+
+p_c_horse_01_h_merge_46 = nokota_whiteroan 
+p_c_horse_hand_000_c0_999_ab
+p_c_horse_head_000_c0_999_ab
+
+//-------------------------------------------------\\
+
+
+For the below textures, the "head" is the same as the "hand" 
+Example: 
+p_c_horse_01_hand_000_c0_845_ab 
+p_c_horse_01_head_000_c0_845_ab 
+
+The hashes are all found in Codex for cross-reference.
+
+
+//-------------------------------------------------\\
+
+0xB41F08F8 = few spotted (appy, arabian)
+p_c_horse_01_hand_000_c0_845_ab 
+
+0xd9252bb4 = warped brindle (arabian)
+p_c_horse_01_hand_000_c0_846_ab
+
+0x23a60467 = breton grullo dun
+p_c_horse_01_hand_000_c0_860_ab
+
+0x2bc3f695 = mealy dapple bay (breton)
+p_c_horse_01_head_000_c0_859_ab
+
+0xd76fd83f = breton red roan
+p_c_horse_01_head_000_c0_858_ab
+
+0xc8d268d7 = breton seal brown
+p_c_horse_01_head_000_c0_857_ab
+
+0xb4feed82 = breton sorrel
+p_c_horse_01_head_000_c0_856_ab
+
+0xf368a621 = breton steel grey
+p_c_horse_01_head_000_c0_855_ab
+
+0x16e34750 = criollo bay brindle
+p_c_horse_01_head_000_c0_850_ab
+
+0x9644635f = criollo bay frame overo
+p_c_horse_01_hand_000_c0_854_ab
+
+0x8c5358a2 = criollo blue roan overo
+p_c_horse_01_hand_000_c0_853_ab
+
+0x974044c4 = criollo marble sabino
+p_c_horse_01_hand_000_c0_851_ab
+
+0xf3a459fc = criollo sorrel overo
+p_c_horse_01_head_000_c0_852_ab
+
+0xe6631ad4 = klad black and white
+p_c_horse_01_hand_000_c0_847_ab
+
+0xd862f59e = klad cremello and silver
+p_c_horse_01_head_000_c0_848_ab
+
+0x4ac1f90f = klad grey / dapple rose grey
+p_c_horse_01_hand_000_c0_849_ab
+
+
+mp_horse_01_hand_000_c0_822_ab = mft buckskin brindle
+mp_horse_01_hand_000_c0_823_ab = mft black tovero
+mp_horse_01_hand_000_c0_824_ab = mustang red dun overo
+mp_horse_01_hand_000_c0_825_ab = mustang black overo
+mp_horse_01_hand_000_c0_826_ab = mustang chestnut overo
+mp_horse_01_hand_000_c0_827_ab = turk grey
+mp_horse_01_hand_000_c0_828_ab = mustang buckskin
+mp_horse_01_hand_000_c0_829_ab = turk chestnut
+mp_horse_01_hand_000_c0_830_ab = turk black
+mp_horse_01_hand_000_c0_831_ab = mft dapple grey
+mp_horse_01_hand_000_c0_832_ab = mft blue roan
+mp_horse_01_hand_000_c0_833_ab = gypsy white blagdon
+mp_horse_01_hand_000_c0_834_ab = gypsy splashed bay
+mp_horse_01_hand_000_c0_835_ab = norfolk black
+mp_horse_01_hand_000_c0_836_ab = norfolk dappled buckskin
+mp_horse_01_hand_000_c0_837_ab = norfolk rose grey
+mp_horse_01_hand_000_c0_838_ab = norfolk piebald roan
+mp_horse_01_hand_000_c0_839_ab = norfolk spotted tricolor
+mp_horse_01_hand_000_c0_840_ab = norfolk speckled grey
+mp_horse_01_hand_000_c0_841_ab = gypsy splashed pibald
+mp_horse_01_hand_000_c0_842_ab = gypsy palomino blagdon
+mp_horse_01_hand_000_c0_843_ab = gypsy skewbald
+mp_horse_01_hand_000_c0_844_ab = gypsy piebald
+mp_horse_01_hand_000_c0_842_ab = gypsy palomino blagdon
+mp_horse_01_hand_000_c0_843_ab = gypsy skewbald
+mp_horse_01_hand_000_c0_844_ab = gypsy piebald
+ 
