@@ -12,4 +12,5 @@ Steps to Load/Replace Custom Textures:
 1. Find your desired texture that you want to replace 
 2. Locate the EDITED CUSTOM TEXTURE FILE that you have downloaded, comissioned, or made. 
 3. Rename the EDITED CUSTOM TEXTURE FILE to the ONE YOU'RE WANTING TO REPLACE. 
-4. Place in a [custom] folder, with an fxmanifest 
+4. Place in a [custom] folder, with an fxmanifest
+5. Restart server. 
