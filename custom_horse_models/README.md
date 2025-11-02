@@ -42,13 +42,13 @@ That's mainly it for wanting to make your own custom horse models - I will not t
 
 Here is a breakdown of things that could be involved in your very own horse script, or stable script: 
 
-Where expressions are placed: inline in templates, in config files, or in script source (identify exact file(s) that contain them).
-Lexing/parsing: tokenization of expression strings and creation of an AST or token stream.
-Binding: lookup of identifiers against the script runtime/context (global vars, local scope, injected services).
-Type/validation: optional static checks or runtime validation of operand types and allowed operations.
-Compilation/evaluation: either interpreted evaluation of the AST or compilation to a function/closure that the script calls.
-Integration API: exposing an evaluate/execute function on the runtime that scripts call with a context object (variables, functions, permissions).
-Error handling: capture parse and runtime errors, map back to source positions, and surface/log meaningful messages.
-Security/sandboxing: restrict allowed functions/operators, sanitize inputs, and enforce time/memory limits if needed.
-Caching/optimizations: cache parsed ASTs or compiled functions to avoid repeated parsing.
-Testing/coverage: unit tests for parsing, evaluation, edge cases, and security rules.
+- Where expressions are placed: inline in templates, in config files, or in script source (identify exact file(s) that contain them).
+- Lexing/parsing: tokenization of expression strings and creation of an AST or token stream.
+- Binding: lookup of identifiers against the script runtime/context (global vars, local scope, injected services).
+- Type/validation: optional static checks or runtime validation of operand types and allowed operations.
+- Compilation/evaluation: either interpreted evaluation of the AST or compilation to a function/closure that the script calls.
+- Integration API: exposing an evaluate/execute function on the runtime that scripts call with a context object (variables, functions, permissions).
+- Error handling: capture parse and runtime errors, map back to source positions, and surface/log meaningful messages.
+- Security/sandboxing: restrict allowed functions/operators, sanitize inputs, and enforce time/memory limits if needed.
+- Caching/optimizations: cache parsed ASTs or compiled functions to avoid repeated parsing.
+- Testing/coverage: unit tests for parsing, evaluation, edge cases, and security rules.
